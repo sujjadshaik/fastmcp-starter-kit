@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "fastmcp-starter-kit": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "http://localhost:8100/sse", "--allow-http"]
+    }
+  }
+}
